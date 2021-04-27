@@ -1,4 +1,7 @@
 # MY-WEB-DESIGNING-CODES
+HTML
+CSS
+JS
 <html>
 	<head>
 		<title>12 MARKSHEET</title>
